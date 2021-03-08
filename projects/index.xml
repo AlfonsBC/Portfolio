@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alfonso Barajas Cervantes</title>
+    <link>https://alfonsbc.github.io/Portfolio/projects/</link>
+    <description>Recent content in Projects on Alfonso Barajas Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alfonsbc.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Raw vegan diet Optimization Cost-Nutrition</title>
+      <link>https://alfonsbc.github.io/Portfolio/projects/project-5/</link>
+      <pubDate>Fri, 05 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/projects/project-5/</guid>
+      <description>Libraries       Numpy Pandas       Repository Link     This is a question I have asked to myself due to the economical impact in Mexico after the pandemic hit. Given a limited budget, how we can obtain the best nutritional content of what we buy as a produce.
+I abstract a problem of real impact to a mathematical model that could be resolved using computational resources.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Currency Exchanges (OLAP)</title>
+      <link>https://alfonsbc.github.io/Portfolio/projects/project-4/</link>
+      <pubDate>Sat, 23 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/projects/project-4/</guid>
+      <description>Libraries Software used      SQL PostgreSQL pgmodeler      Repository Link    About this Project      It is required to analyze information corresponding to a chain of exchanges branches in Mexico, that sells and buys dollars. They receive information of the daily sales of dollars, the client&amp;rsquo;s name and employee&amp;rsquo;s name that make the deal with the client.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Finite Differences</title>
+      <link>https://alfonsbc.github.io/Portfolio/projects/project-3/</link>
+      <pubDate>Wed, 20 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/projects/project-3/</guid>
+      <description>Libraries used       Numpy Matplotlib Seaborn      Repository Link    About this Project      We utilize the numerical method Finite Differences in which we obtain the solution of a partial derivatives about the heat conduction in the solid of study. To do that, we divide the continuous domain into a discrete domain to understand the conduction of heat among the particles of the body.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Alumni Network (OLTP)</title>
+      <link>https://alfonsbc.github.io/Portfolio/projects/project-2/</link>
+      <pubDate>Wed, 04 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/projects/project-2/</guid>
+      <description>Libraries Software used      SQL PostgreSQL Power Designer      Repository Link     About this Project
+A University decided to automate its management of its alumni. The system has to answer the following questions:
+ Given the major, we want to know their affiliation number of the University and their address of every student that studied that major.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Polynomial Approximation and Weather Forecast</title>
+      <link>https://alfonsbc.github.io/Portfolio/projects/project-1/</link>
+      <pubDate>Sun, 01 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/projects/project-1/</guid>
+      <description>Libraries used      Pandas Numpy      Repository Link    About this project
+Polynomial Approximation of degree 3 to forecast the temperature given the month and state of Mexico, we decided the best approximation based on the principle of least squares.
+Project Challenges
+ Deal with large data sets of data and load it. How to make the segmentation periods of time correctly, so we can forecast the weather.</description>
+    </item>
+    
+  </channel>
+</rss>

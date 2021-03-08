@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Alfonso Barajas Cervantes</title>
+    <link>https://alfonsbc.github.io/Portfolio/es/projects/</link>
+    <description>Recent content in Proyectos on Alfonso Barajas Cervantes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alfonsbc.github.io/Portfolio/es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 5: Optimización del Costo-Nutrición con respecto a la Dieta Vegetariana Cruda</title>
+      <link>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-5/</link>
+      <pubDate>Fri, 05 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-5/</guid>
+      <description>Librerías       Numpy Pandas       Link del Repositorio     Esta es una pregunta que me he hecho a mí mismo debido al impacto económico en México después de la pandemia. Dado un presupuesto limitado, cómo podemos obtener el mejor contenido nutricional de lo que compramos como producto.
+Resumen un problema de impacto real a un modelo matemático que podría resolverse utilizando recursos computacionales.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 4: Casas de Cambio (OLAP)</title>
+      <link>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-4/</link>
+      <pubDate>Sat, 23 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-4/</guid>
+      <description>Librerías Software usado      SQL PostgreSQL pgmodeler      Link del Repositorio    Acerca de este Proyecto      Se requiere analizar información correspondiente a una cadena de oficinas de cambio en México, que vende y compra dólares. Reciben información de las ventas diarias de dólares, el nombre del cliente y el nombre del empleado que hacen el trato con el cliente.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 3: Diferencias Finitas</title>
+      <link>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-3/</link>
+      <pubDate>Wed, 20 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-3/</guid>
+      <description>Librerías usadas       Numpy Matplotlib Seaborn      Link del Repositorio    Acerca del Proyecto      Utilizamos el método numérico Diferencias finitas en el que obtenemos la solución de derivadas parciales sobre la conducción de calor en el sólido de estudio. Para hacer eso, dividimos el dominio continuo en un dominio discreto para comprender la conducción de calor entre las partículas del cuerpo.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 2: Red de egresados en Universidad (OLTP)</title>
+      <link>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-2/</link>
+      <pubDate>Wed, 04 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-2/</guid>
+      <description>Librerías Software usado      SQL PostgreSQL Power Designer      Link del Repositorio     Acerca de este Proyecto Una Universidad decidió automatizar la gestión de sus egresados. El sistema debe responder a las siguientes preguntas:
+ Dada la especialidad, queremos saber su número de afiliación de la Universidad y la dirección de cada estudiante que estudió esa especialidad.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 1: Aproximación Polinomial y Pronóstico de Clima</title>
+      <link>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-1/</link>
+      <pubDate>Sun, 01 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alfonsbc.github.io/Portfolio/es/projects/proyecto-1/</guid>
+      <description>Librerias Usadas      Pandas Numpy      Link del Repositorio    Acerca del Proyecto
+Aproximación Polinomial de grado 3 para pronosticar la temperatura dado un mes y un estado de Mèxico. Se decidió la mejor aproximación basado en el principio de cuadrados mínimos.
+Desafíos en el Proyecto
+ Manejar grandes conjuntos de datos y cargarlos a la base. Cómo realizar correctamente los periodos de segmentación de tiempo, para que podamos pronosticar el clima.</description>
+    </item>
+    
+  </channel>
+</rss>
